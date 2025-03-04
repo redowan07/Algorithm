@@ -1,0 +1,1 @@
+This is the algorithm file that i have completed during my academic life .i have practiced this sorting and searching algorithm that i  provided here.Though I have re-checked these codes many times,but please let me know if there's any mistake.
